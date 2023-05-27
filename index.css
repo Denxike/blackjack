@@ -1,0 +1,38 @@
+body{
+    background-image:url(poker1.jfif) ;
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+}
+h1{
+    color: gold;
+    text-shadow: 1px 1px beige;
+    scrollbar-shadow-color: rgb(65, 206, 206);
+    font-size:250%;
+}
+p{
+    font-size: larger;
+}
+#message-el{
+    font-weight: bold;
+    color: black;
+}
+button{
+    text-align: center;
+    margin: auto;
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 5vh;
+    background-color: gold;
+    color: green;
+    border: none;
+}
+
+#button{
+    align-items: center;
+}
+a:hover{
+background-color: gold;
+}
